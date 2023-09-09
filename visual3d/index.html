@@ -1,0 +1,67 @@
+<head>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/qwest/4.4.5/qwest.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.4/papaparse.min.js"></script>
+    <script src="//unpkg.com/3d-force-graph@1"></script>
+
+    <script src="data-set-loader.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-info">
+	  <a class="navbar-brand" href="#">VISUALISASI</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav">
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../homepage">Home</a>
+		  </li>
+		  <li class="nav-item active bg-secondary">
+			<a class="nav-link text-white" href="../visual3d">Visual 3D</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualcollapse">Visual Collapse</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visuald3">Visual D3</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualinden">Visual Inden</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualnetwork">Visual Network</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualorbit">Visual Orbit</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualpagerank">Visual Page Rank</a>
+		  </li>
+		</ul>
+	  </div>
+	</nav>
+	
+    <div id="3d-graph"></div>
+	
+    <div class="dimensions-selector mt-5">
+        Dimensions:
+        <input type="radio" name="num-dimensions" onChange="toggleDimensions(2)" checked> 2D
+        <input type="radio" name="num-dimensions" onChange="toggleDimensions(3)"> 3D
+    </div>
+    <div class="graph-data mt-5">
+        <span id="graph-data-description"></span>
+    </div>
+	
+	
+
+    <script src="index.js"></script>
+</body>

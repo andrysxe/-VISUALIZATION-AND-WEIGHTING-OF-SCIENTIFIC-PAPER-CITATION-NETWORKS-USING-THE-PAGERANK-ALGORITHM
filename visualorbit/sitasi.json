@@ -1,0 +1,1380 @@
+{
+    "name": "Data Makalah Ilmiah",
+    "children": [{
+        "name": "Combined Tree Kernel-based classifiers for Assessing Quality of Scientific Text (2016)",
+        "children": [{
+                "name": "New ranking algorithms for parsing and tagging: Kernels over discrete structures, and the voted perceptron (2002)",
+                "size": 1500
+            }, {
+                "name": "Building a large annotated corpus of learner english: The nus corpus of learner english (2003)",
+                "size": 1500
+            }, {
+                "name": "Helping Our Own: The HOO 2011 Pilot Shared Task. the Generation Challenges Session at the 13th European Workshop on Natural Language Generation (2011)",
+                "size": 1500
+            }, {
+                "name": "A report on the automatic evaluation of scientific writing shared task (2016)",
+                "size": 743
+            }, {
+                "name": "Automated Evaluation of Scientific Writing: AESW Shared Task Proposal (2015)",
+                "size": 743
+            }, {
+                "name": "Making large scale svm learning practical (1999)",
+                "size": 743
+            }, {
+                "name": "Accurate Unlexicalized Parsing (2003)",
+                "size": 743
+            }, {
+                "name": "Automated grammatical error detection for language learners. Synthesis lectures on human language (2015)",
+                "size": 743
+            }, {
+                "name": "Exploiting syntactic and shallow semantic kernels for question answer classification (2007)",
+                "size": 743
+            }, {
+                "name": "Tree kernels for semantic role labeling (2006)",
+                "size": 743
+            }, {
+                "name": "A study on convolution kernels for shallow semantic eing (2004)",
+                "size": 743
+            }, {
+                "name": "Making tree kernels practical for natural language learning (2006)",
+                "size": 743
+            }, {
+                "name": "Kernel methods, syntax and semantics for relational text categorization (2008)",
+                "size": 743
+            }, {
+                "name": "A new dataset and method for automatically grading esol texts (2011)",
+                "size": 743
+            }]
+        },
+        {
+        "name": "Evaluating Word Embeddings Using a Representative Suite of Practical Tasks (2016)",
+            "children": [
+              {
+                "name": "Natural language processing (almost) from scratch (2012)",
+                "size": 3534
+            }, {
+                "name": "Two step cca: A new spectral method for estimating vector models of words (2012)",
+                "size": 3534
+            }, {
+                "name": "Community evaluation and exchange of word vectors at wordvectors.org (2014)",
+                "size": 5731
+            }, {
+                "name": "Placing search in context: The concept revisited (2001)",
+                "size": 7840
+            }, {
+                "name": "PPDB: The paraphrase database (2013)",
+                "size": 5914
+            }, {
+                "name": "Improving distributional similarity with lessons learned from word embeddings (2015)",
+                "size": 3416
+            }, {
+                "name": "Learning question classifiers: the role of semantic information (1998)",
+                "size": 3416
+            }, {
+                "name": "The stanford corenlp natural language processing toolkit (2014)",
+                "size": 3416
+            }, {
+                "name": "Efficient estimation of word representations in vector space (2013)",
+                "size": 3416
+            }, {
+                "name": "Glove: Global vectors for word representation (2014)",
+                "size": 3416
+            }, {
+                "name": "A universal part-of-speech tagset (2011)",
+                "size": 3416
+            }, {
+                "name": "Introduction to the CoNLL-2000 shared task: Chunkingt (2000)",
+                "size": 3416
+            }, {
+                "name": "Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition (2003)",
+                "size": 3416
+            }, {
+                "name": "Feature-rich part-ofspeech tagging with a cyclic dependency network (2003)",
+                "size": 3416
+            }, {
+                "name": "Large linguistically-processed web corpora for multiple languages (2006)",
+                "size": 3416
+            }]
+          },
+          {
+            "name": "SemEval-2010 Task 7: Argument Selection and Coercion (2010)",
+            "children": [{
+                "name": "The salsa corpus: a german corpus resource for lexical semantics (2006)",
+                "size": 3534
+          },{
+                "name": "Users' Reference Guide (2019)",
+                "size": 3534
+          },{
+                "name": "Flexible semantics for reinterpretation phenomena (1995)",
+                "size": 3534
+          },{
+                "name": "Building Pattern Dictionaries with Corpus Analysis (2004)",
+                "size": 3534
+          },{
+                "name": "A pattern dictionary for natural language processing (2005)",
+                "size": 3534
+          },{
+                "name": "Corpus pattern analysis. CPA Project Page (2004)",
+                "size": 3534
+          },{
+                "name": "Interpretation as abduction (2013)",
+                "size": 3534
+          },{
+                "name": "VerbNet: A broad-coverage, comprehensive verb lexicon (2005)",
+                "size": 3534
+          },{
+                "name": "SIMPLE: A general framework for the development of multilingual lexicons (2000)",
+                "size": 3534
+          },{
+                "name": "SemEval-2007 task 8: Metonymy resolution (2007)",
+                "size": 3534
+          },{
+                "name": "The NomBank project: An interim report (2004)",
+                "size": 3534
+          },{
+                "name": "The non-uniqueness of semantic solutions: Polysemy (1979)",
+                "size": 3534
+          },{
+                "name": "The proposition bank: An annotated corpus of semantic roles (2005)",
+                "size": 3534
+          },{
+                "name": "Ontonotes: A unified relational semantic representation (2007)",
+                "size": 3534
+          },{
+                "name": "Automated Induction of Sense in Context (2004)",
+                "size": 3534
+          },{
+                "name": "Temporal and event information in natural language text (2005)",
+                "size": 3534
+          },{
+                "name": "GLML: Annotating argument selection and coercion (2009)",
+                "size": 3534
+          },{
+                "name": "The generative lexicon (1991)",
+                "size": 3534
+          },{
+                "name": "Polysemy in verbs: systematic relations between senses and their effect on annotation (2008)",
+                "size": 3534
+          },{
+                "name": "Constructing a corpus-based ontology using model bias (2006)",
+                "size": 3534
+          },{
+                "name": "The Brandeis Annotation Tool (2010)",
+                "size": 3534
+          }]
+        },
+        {
+          "name": "Exploring and Exploiting the Limited Utility of Captions in Recognizing Intention in Information Graphics (2005)",
+          "children": [{
+              "name": "Prosody-based automatic detection of annoyance and frustration in human-computer dialog (2002)",
+              "size": 3534
+        },{
+              "name": "Getting computers to see information graphics so users do not have to (2005)",
+              "size": 3534
+        },{
+              "name": "Using Language (1996)",
+              "size": 3534
+        },{
+              "name": "Generation of texts for information graphics (1995)",
+              "size": 3534
+        },{
+              "name": "Incorporating perceptual task effort into the recognition of intention in information graphics (2006)",
+              "size": 3534
+        },{
+              "name": "A probabilistic framework for recognizing intention in information graphics (2005)",
+              "size": 3534
+        },{
+              "name": "Efficient analysis of complex diagrams using constraint-based parsing (1995)",
+              "size": 3534
+        },{
+              "name": "Summarization of diagrams in documents (1999)",
+              "size": 3534
+        },{
+              "name": "Autobrief: an experimental system for the automatic generation of briefings in integrated text and information graphics (2004)",
+              "size": 3534
+        },{
+              "name": "Utterer's Meaning and Intentions (1969)",
+              "size": 3534
+        },{
+              "name": "The automated mapping of plans for plan recognition (1994)",
+              "size": 3534
+        },{
+              "name": "Mapping communicative goals into conceptual tasks to generate graphics in discourse (2001)",
+              "size": 3534
+        },{
+              "name": "Recognising visual patterns to communicate gas turbine time-series data (2003)",
+              "size": 3534
+        }]
+      },
+      {
+          "name": "A Preference-first Language Processor Integrating the Unification Grammar and Markov Language Model for Speech Recognition-Applications (1991)",
+          "children": [{
+              "name": "Continuous Speech Recognition by Statistical Methods (1976)",
+              "size": 3534
+        },{
+              "name": "Algorithm Schemata and Data Structures in Syntactic Processing (1986)",
+              "size": 3534
+        },{
+              "name": "A Mandarin Dictation Machine Based Upon A Hierarchical Recognition Approach and Chinese Natural Language Analysis (1990)",
+              "size": 3534
+        },{
+              "name": "Using Syntactic Information to Improve Large Vocabulary Word Recognition (2015)",
+              "size": 3534
+        },{
+              "name": "An Introduction to Unification-Based Approaches to Grammar (2003)",
+              "size": 3534
+        },{
+              "name": "Implementing Natural Language Parsers (2009)",
+              "size": 3534
+        },{
+              "name": "An Efficient Word Lattice Parsing Algorithm for Continuous Speech Recognition Cox~ct constituents Noisy constituents Fig (2009)",
+              "size": 3534
+        },{
+              "name": "The average probability values for the correct and noisy constituents with different lengths constructed by parsing strategy 1 (2000)",
+              "size": 3534
+      }]
+     },
+       {
+         "name": "A Large Wordnet-based Sentiment Lexicon for Polish (2015)",
+         "children": [{
+             "name": "Sentiwordnet 3.0: An enhanced lexical resource for sentiment analysis and opinion mining (2010)",
+             "size": 3534
+       },{
+             "name": "Valence is a basic building block of emotional life (2005)",
+             "size": 3534
+       },{
+             "name": "Stylistics By Paul Simpson (2004)",
+             "size": 3534
+       },{
+             "name": "SentiSense: An easily scalable concept-based affective lexicon for sentiment analysis (2012)",
+             "size": 3534
+       },{
+             "name": "Building sentiment lexicons for all major languages (2014)",
+             "size": 3534
+       },{
+             "name": "SentiWordNet for Indian Languages (2010)",
+             "size": 3534
+       },{
+             "name": "An argument for basic emotions (2006)",
+             "size": 3534
+       },{
+             "name": "Senti- WordNet: A Publicly Available Lexical Resource for Opinion Mining (2006)",
+             "size": 3534
+       },{
+             "name": "Measuring nominal scale agreement among many raters (1971)",
+             "size": 3534
+       },{
+             "name": "Valuation. Linguistic and conceptual aspects (2012)",
+             "size": 3534
+       },{
+             "name": "On the expressiveness of language: expression versus word formation (2001)",
+             "size": 3534
+       },{
+             "name": "The pragmatic aspects of word formation. The expressive and poetic function (2011)",
+             "size": 3534
+       },{
+             "name": "The Importance of Neutral Examples in Learning Sentiment (2006)",
+             "size": 3534
+       },{
+             "name": "CLUO: Web-Scale Text Mining System for Open Source Intelligence Purposes (2013)",
+             "size": 3534
+       },{
+             "name": "The chicken-and-egg problem in wordnet design: synonymy, synsets and constitutive relations (2013)",
+             "size": 3534
+       },{
+             "name": "The problem of evaluation in the analysis of selected Polish emotion names from the class ANGER (2010)",
+             "size": 3534
+       },{
+             "name": "Crowdsourcing a Word-Emotion Association Lexicon (2013)",
+             "size": 3534
+       },{
+             "name": "Combining Wordnet and Morphosyntactic Information in Terminology Clustering (2012)",
+             "size": 3534
+       },{
+             "name": "A Wordnet from the Ground Up (2009)",
+             "size": 3534
+       },{
+             "name": "EMOTION: A Psychoevolutionary Synthesis (1980)",
+             "size": 3534
+       },{
+             "name": "The Nature of Emotions (2009)",
+             "size": 3534
+       },{
+             "name": "Merging SenticNet and WordNet-Affect emotion lists for sentiment analysis (2012)",
+             "size": 3534
+       },{
+             "name": "Expressive lexicon in the history of 729 (2016)",
+             "size": 3534
+       },{
+             "name": "Polish language Cultural and communicative contexts of colloquialism (2016)",
+             "size": 3534
+       },{
+             "name": "A strategy of mapping Polish WordNet onto Princeton WordNet (2012)",
+             "size": 3534
+       },{
+             "name": "Fast algorithm for assessing semantic similarity of texts (2012)",
+             "size": 3534
+       },{
+             "name": "WordNet-Affect: An affective extension of Word- Net (2004)",
+             "size": 3534
+       },{
+             "name": "A Developing Japanese WordNet Affect for Analyzing Emotions (2011)",
+             "size": 3534
+       },{
+             "name": "Measuring Praise and Criticism: Inference of Semantic Orientation from Association (2003)",
+             "size": 3534
+       },{
+             "name": "Expanding Opinion Attribute Lexicons (2012)",
+             "size": 3534
+       },{
+             "name": "Associations between Texts and Ontology (2013)",
+             "size": 3534
+       },{
+             "name": "Chinese Emotion Lexicon Developing via Multi-lingual Lexical Resources Integration (2013)",
+             "size": 3534
+       },{
+             "name": "Lexical Means in Communicating Emotion in Suicide Notes On the Basis of the Polish Corpus of Suicide Notes (2015)",
+             "size": 3534
+       }]
+       },
+       {
+         "name": "Pomset mcfgs (2007)",
+         "children": [{
+             "name": "Parsing partially ordered multisets (2003)",
+             "size": 3534
+       },{
+             "name": "Long distance scrambling and tree adjoining grammars (1991)",
+             "size": 3534
+       },{
+             "name": "Adverbs: The hierarchy paradox (1999)",
+             "size": 3534
+       },{
+             "name": "Complexity results for pomset languages (2006)",
+             "size": 3534
+       },{
+             "name": "Shuffle languages, Petri nets, and context-sensitive grammars (1981)",
+             "size": 3534
+       },{
+             "name": "A proposed linear specification language (1991)",
+             "size": 3534
+       },{
+             "name": "Pomset logic as an alternative categorial grammar (1999)",
+             "size": 3534
+       },{
+             "name": "Series-parallel languages and the bounded-width property (2000)",
+             "size": 3534
+       },{
+             "name": "Shape conservation and remnant movement (2000)",
+             "size": 3534
+       },{
+             "name": "IDLexpressions: A formalism for representing and parsing finite languages in natural language processing (2004)",
+             "size": 3534
+       },{
+             "name": "Partially ordered multiset context-free grammars and ID/LP parsing (2003)",
+             "size": 3534
+       },{
+             "name": "The pomset model of parallel processes : Unifying the temporal and the spatial (1984)",
+             "size": 3534
+       },{
+             "name": "Modelling concurrency with partial orders (2000)",
+             "size": 3534
+       },{
+             "name": "On multiple context free grammars (1991)",
+             "size": 3534
+       },{
+             "name": "Derivational minimalism (2006)",
+             "size": 3534
+       },{
+             "name": "Characterizing structural descriptions produced by various grammatical formalisms (1987)",
+             "size": 3534
+       },{
+             "name": "On the complexity of iterated shuffle (1984)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "Efficacy of Beam Thresholding, Unification Filtering and Hybrid Parsing in Probabilistic HPSG Parsing (2005)",
+         "children": [{
+             "name": "Stochastic attribute-value grammars (1997)",
+             "size": 3534
+       },{
+             "name": "A maximum entropy approach to natural language processing (1996)",
+             "size": 3534
+       },{
+             "name": "Exploiting Social Network Structure for Person-to-Person Sentiment Analysis (2014)",
+             "size": 3534
+       },{
+             "name": "The Mental Representation of Grammatical Relations (1982)",
+             "size": 3534
+       },{
+             "name": "Generalized probabilistic LR-parsing of natural language (corpora ) with unification-based grammars (1993)",
+             "size": 3534
+       },{
+             "name": "New figures of merit for best-first probabilistic chart parsing (1998)",
+             "size": 3534
+       },{
+             "name": "A maximum-entropyinspired parser (2000)",
+             "size": 3534
+       },{
+             "name": "Edge-based best-first chart parsing (1998)",
+             "size": 3534
+       },{
+             "name": "Parsing the WSJ using CCG and log-linear models (2004)",
+             "size": 3534
+       },{
+             "name": "Head-Driven Statistical Models for Natural Language Parsinge (2003)",
+             "size": 3534
+       },{
+             "name": "Constraint based integration of deep and shallow parsing techniques (2003)",
+             "size": 3534
+       },{
+             "name": "Integrated shallow and deep parsing: TopP meets HPSG (2003)",
+             "size": 3534
+       },{
+             "name": "Constraint-based RMRS construction from shallow grammars (2004)",
+             "size": 3534
+       },{
+             "name": "Dynamic programming for parsing and estimation of stochastic unification-based grammars (2002)",
+             "size": 3534
+       },{
+             "name": "Global thresholding and multiple pass parsing (2002)",
+             "size": 3534
+       },{
+             "name": "Parsing with generative models of predicate-argument structure (2003)",
+             "size": 3534
+       },{
+             "name": "Estimators for stochastic unification-based grammars (1999)",
+             "size": 3534
+       },{
+             "name": "Speed and accuracy in shallow and deep stochastic parsing (2004)",
+             "size": 3534
+       },{
+             "name": "From word hypotheses to logical form: An efficient interleaved approach (1996)",
+             "size": 3534
+       },{
+             "name": "Head driven parsing (1994)",
+             "size": 3534
+       },{
+             "name": "A bag of useful techniques for efficient and robust parsing (1999)",
+             "size": 3534
+       },{
+             "name": "A novel disambiguation method for unification-based grammars using probabilistic context-free approximations (2002)",
+             "size": 3534
+       },{
+             "name": "A* parsing: Fast exact viterbi parse selection (2004)",
+             "size": 3534
+       },{
+             "name": "Wide coverage parsing with stochastic attribute value grammars (2004)",
+             "size": 3534
+       },{
+             "name": "Efficient feature structure operations without compilation (2000)",
+             "size": 3534
+       },{
+             "name": "A comparison of algorithms for maximum entropy parameter estimation (2002)",
+             "size": 3534
+       },{
+             "name": "Building a large annotated corpus of English: The Penn Treebank (1993)",
+             "size": 3534
+       },{
+             "name": "BUP: A bottom up parser embedded in Prolog (1983)",
+             "size": 3534
+       },{
+             "name": "The interface between phrasal and functional constraints (1993)",
+             "size": 3534
+       },{
+             "name": "Maximum entropy estimation for feature forests (2002)",
+             "size": 3534
+       },{
+             "name": "Probabilistic disambiguation models for wide-coverage HPSG parsing (2005)",
+             "size": 3534
+       },{
+             "name": "Probabilistic modeling of argument structures including non-local dependencies (2003)",
+             "size": 3534
+       },{
+             "name": "Practical experiments with regular approximation of context-free languages (2000)",
+             "size": 3534
+       },{
+             "name": "Dynamic programming parsing for context-free grammars in continuous speech recognition (1991)",
+             "size": 3534
+       },{
+             "name": "Collaborative Language Engineering: A Case Study in Efficient Grammar-Based Processing (2002)",
+             "size": 3534
+       },{
+             "name": "A tabulation-based parsing method that reduces copying (2003)",
+             "size": 3534
+       },{
+             "name": "Head-Driven Phrase Structure Grammar (1994)",
+             "size": 3534
+       },{
+             "name": "Learning to parse natural language with maximum entropy models (1999)",
+             "size": 3534
+       },{
+             "name": "Lexicalized stochastic modeling of constraint-based grammars using loglinear measures and EM training (2000)",
+             "size": 3534
+       },{
+             "name": "Probabilistic top-down parsing and language modeling (2001)",
+             "size": 3534
+       },{
+             "name": "Deterministic left corner parsing (1970)",
+             "size": 3534
+       },{
+             "name": "Parsing strategies with 'lexicalized' grammars: Application to tree adjoining grammars (1988)",
+             "size": 3534
+       },{
+             "name": "The Syntactic Process (2000)",
+             "size": 3534
+       },{
+             "name": "Efficient Parsing for Natural Language (1985)",
+             "size": 3534
+       },{
+             "name": "Chunk parsing revisitedg (2005)",
+             "size": 3534
+       },{
+             "name": "Natural Language Processing -IJCNLP 2004 LNAI 3248, chapter Iterative CKY Parsing for Probabilistic Context-Free Grammars (2000)",
+             "size": 3534
+       },{
+             "name": "An efficient implementation of the head-corner parser (1997)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "Tools for non-native readers: the case for translation and simplification (2018)",
+         "children": [{
+             "name": "Readability Assessment for Text Simplification (2010)",
+             "size": 3534
+       },{
+             "name": "TriS: A Statistical Sentence Simplifier with Log-linear Models and Margin-based Discriminative Training (2011)",
+             "size": 3534
+       },{
+             "name": "Student, text and curriculum modeling for reader-specific document retrieval (2005)",
+             "size": 3534
+       },{
+             "name": "The automated text adaptation tool (2007)",
+             "size": 3534
+       },{
+             "name": "Cepstral Text-to-Speech (2012)",
+             "size": 3534
+       },{
+             "name": "Automatic induction of rules for text simplification. Knowledge- Based Systems (1997)",
+             "size": 3534
+       },{
+             "name": "A New Academic Word List (2013)",
+             "size": 3534
+       },{
+             "name": "A linguistic analysis of simplified and authentic texts. The Modern Language Journal (2007)",
+             "size": 3534
+       },{
+             "name": "Impact of Word Sense Disambiguation on Ordering Dictionary Definitions in Vocabulary Learning Tutors (2011)",
+             "size": 3534
+       },{
+             "name": "Multimodal learning of words: A study on the use of speech synthesis to reinforce written text in L2 language learning (2010)",
+             "size": 3534
+       },{
+             "name": "GRE Verbal Workbook (1998)",
+             "size": 3534
+       },{
+             "name": "Retention of Word Meanings Inferred from Context and Sentence-Level Translations: Implications for the Design of Beginning- Level CALL Software. The Modern Language Journal (1998)",
+             "size": 3534
+       },{
+             "name": "Interactive-engagement versus traditional methods: a six-thousand-student survey of mechanics test data for introductory physics courses (1997)",
+             "size": 3534
+       },{
+             "name": "Classroom success of an Intelligent Tutoring System for lexical practice and reading comprehension (2006)",
+             "size": 3534
+       },{
+             "name": "Text simplification for reading assistance: a project note (2003)",
+             "size": 3534
+       },{
+             "name": "Lexical representation and development in a second language (2000)",
+             "size": 3534
+       },{
+             "name": "Robust learning of vocabulary: investigating the relationship between learner behaviour and the acquisition of vocabulary (2010)",
+             "size": 3534
+       },{
+             "name": "Statistical machine translation (2009)",
+             "size": 3534
+       },{
+             "name": "The Development of Lexical and Conceptual Representations The Handbook of Second Language Acquisition (2002)",
+             "size": 3534
+       },{
+             "name": "Term familiarity to indicate perceived and actual difficulty of text in medical digital libraries (2011)",
+             "size": 3534
+       },{
+             "name": "Measuring the impact of translation on the accuracy and fluency of vocabulary acquisition of English (2015)",
+             "size": 3534
+       },{
+             "name": "Identifying Targets for Syntactic Simplification (2011)",
+             "size": 3534
+       },{
+             "name": "Two types of input modification and EFL reading comprehension: simplification versus elaboration (2001)",
+             "size": 3534
+       },{
+             "name": "Decoding, vocabulary and comprehension: the golden triangle of reading skill Bringing reading researchers to life: essays in honor of Isabel Beck (2010)",
+             "size": 3534
+       },{
+             "name": "Text simplification for language learners: a corpus analysis (2007)",
+             "size": 3534
+       },{
+             "name": "Second Language Vocabulary Learning: The Role of Context versus Translations as a Function of Proficiency (1996)",
+             "size": 3534
+       },{
+             "name": "Cloze procedure: a new tool for measuring readability (1953)",
+             "size": 3534
+       },{
+             "name": "Cambridge Advanced Learner's Dictionary , 2nd Edition (2005)",
+             "size": 3534
+       },{
+             "name": "The effects of simplified and elaborated texts on foreign language reading comprehension (1994)",
+             "size": 3534
+       },{
+             "name": "For the sake of simplicity : unsupervised extraction of lexical simplifications from Wikipedia (2010)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "Automated Suggestions for Miscollocations (2009)",
+         "children": [{
+             "name": "A Corpus-based Lexical Semantic Investigation of VN Miscollocations in Taiwan Learners' English (2002)",
+             "size": 3534
+       },{
+             "name": "English Collocations and Their Place in the EFL Classroom (2016)",
+             "size": 3534
+       },{
+             "name": "Automated Grammatical Error Detection Automated Essay Scoring: A Cross-disciplinary (2003)",
+             "size": 3534
+       },{
+             "name": "Bootstrapping in a Language Learning Environment (2003)",
+             "size": 3534
+       },{
+             "name": "WordNet: An On-line Lexical Database (2008)",
+             "size": 3534
+       },{
+             "name": "Collocations in Language Learning: Corpus-based Automatic compilation of Collocations and Bilingual Collocation Concordancer (1997)",
+             "size": 3534
+       },{
+             "name": "Using Statistics in Lexical Analysis (1991)",
+             "size": 3534
+       },{
+             "name": "Detection of Grammatical Errors Involving Prepositions (2007)",
+             "size": 3534
+       },{
+             "name": "Using Contextual Speller Techniques and Language Modeling for ESL Error Correction (2008)",
+             "size": 3534
+       },{
+             "name": "Detecting Errors in English Article Usage with a Maximum Entropy Classifier Trained on a Large (2006)",
+             "size": 3534
+       },{
+             "name": "Feature Expansion for Word Sense Disambiguation (2003)",
+             "size": 3534
+       },{
+             "name": "Phraseology and Second Language Acquisition (2008)",
+             "size": 3534
+       },{
+             "name": "Readability assessment for text simplification (2010)",
+             "size": 3534
+       },{
+             "name": "A computational approach to detecting collocation errors in the writing of non-native speakers of English (2008)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "Readability of Bangla News Articles for Children (2014)",
+         "children": [{
+             "name": "School incentive programs and childrens activities: The case of bangladesh (2004)",
+             "size": 3534
+       },{
+             "name": "Modeling local coherence: An entity-based approach (2005)",
+             "size": 3534
+       },{
+             "name": "A language modeling approach to predicting reading difficulty (2004)",
+             "size": 3534
+       },{
+             "name": "Elements of Information Theory (2006)",
+             "size": 3534
+       },{
+             "name": "Assessing text readability using cognitively based indices (2009)",
+             "size": 3534
+       },{
+             "name": "A formula for predicting readability (1977)",
+             "size": 3534
+       },{
+             "name": "Readability Revisited: The New Dale-Chall Readability formula (1948)",
+             "size": 3534
+       },{
+             "name": "Testing level of readability in bangla novels of bankim chandra chattopodhay w.r.t the density of polysyllabic words (2014)",
+             "size": 3534
+       },{
+             "name": "Readability modeling and comparison of one and two parametric fit: a case study in bangla (2006)",
+             "size": 3534
+       },{
+             "name": "Text simplification for children (2010)",
+             "size": 3534
+       },{
+             "name": "Intrusion errors in working memory tasks: Are they related to reading comprehension ability (2000)",
+             "size": 3534
+       },{
+             "name": "Childrens news online: Website analysis and usability study results (the united kingdom, belgium, and the netherlands) (2012)",
+             "size": 3534
+       },{
+             "name": "Children and online news: a suboptimal relationship. quantitative and qualitative research in flanders. E-youth: Balancing between opportunities a risks (2010)",
+             "size": 3534
+       },{
+             "name": "What and how children search on the web (2014)",
+             "size": 3534
+       },{
+             "name": "A combined topical/non-topical approach to identifying web sites for children (2011)",
+             "size": 3534
+       },{
+             "name": "Complexity measurement of natural and artificial languages (2014)",
+             "size": 3534
+       },{
+             "name": "Cognitively motivated features for readability assessment (2009)",
+             "size": 3534
+       },{
+             "name": "A comparison of features for automatic readability assessment (2010)",
+             "size": 3534
+       },{
+             "name": "A readability assessment of online parkinsons disease information (2000)",
+             "size": 3534
+       },{
+             "name": "Entropy rate constancy in text (2002)",
+             "size": 3534
+       },{
+             "name": "The Technique of clear writing (1968)",
+             "size": 3534
+       },{
+             "name": "The WEKA data mining software: an update (2009)",
+             "size": 3534
+       },{
+             "name": "Readability classification for german using lexical , syntactic and morphological features (2012)",
+             "size": 3534
+       },{
+             "name": "The Psychology of Language (2017)",
+             "size": 3534
+       },{
+             "name": "Combining lexical and grammatical features to improve readavility measures for first and second language text (2007)",
+             "size": 3534
+       },{
+             "name": "An analysis of statistical models and features for reading difficulty prediction (2008)",
+             "size": 3534
+       },{
+             "name": "Automatic readability classification of crowd-sourced data based on linguistic and information-theoretic features (2013)",
+             "size": 3534
+       },{
+             "name": "Text readability classification of textbooks of a low-resource language (2012)",
+             "size": 3534
+       },{
+             "name": "Readability classification of bangla texts (2014)",
+             "size": 3534
+       },{
+             "name": "Children and Their Development (2015)",
+             "size": 3534
+       },{
+             "name": "Technical Challenges and Design Issues in Bangla Language Processing (2013)",
+             "size": 3534
+       },{
+             "name": "Learning to predict readability using diverse linguistic features (2010)",
+             "size": 3534
+       },{
+             "name": "Improvements to Platt's SMO algorithm for SVM classifier design (1999)",
+             "size": 3534
+       },{
+             "name": "Statistical estimation of word acquisition with application to readability prediction (2009)",
+             "size": 3534
+       },{
+             "name": "Derivation of new readability formulas for Navy enlisted personnel (1975)",
+             "size": 3534
+       },{
+             "name": "The ATOS readability formula for books and how it compares to other formulas (2000)",
+             "size": 3534
+       },{
+             "name": "Speakers optimize information density through syntactic reduction Advances in neural information processing systems (2006)",
+             "size": 3534
+       },{
+             "name": "Risks and safety for children on the internet: the uk report (2010)",
+             "size": 3534
+       },{
+             "name": "SMOG grading  a new readability formula (1969)",
+             "size": 3534
+       },{
+             "name": "Children's websites: Usability issues in designing for kids (2019)",
+             "size": 3534
+       },{
+             "name": "A machine learning approach to reading level assesment (2009)",
+             "size": 3534
+       },{
+             "name": "Revisiting readability: A unified framework for predicting text quality (2008)",
+             "size": 3534
+       },{
+             "name": "Fast training of support vector machines using sequential minimal optimization (1999)",
+             "size": 3534
+       },{
+             "name": "Reading level assessment using support vector machines and statistical language models (2005)",
+             "size": 3534
+       },{
+             "name": "Automated readability index (1967)",
+             "size": 3534
+       },{
+             "name": "Here comes everybody: How change happens when people come together (2009)",
+             "size": 3534
+       },{
+             "name": "A statistical model for scientific readability (2001)",
+             "size": 3534
+       },{
+             "name": "New readability measures for bangla and hindi texts (2012)",
+             "size": 3534
+       },{
+             "name": "Text Complexity and Text Simplification in the Crisis Management Domain (2012)",
+             "size": 3534
+       },{
+             "name": "Facilitating the application of support vector regression by using a universal Pearson VII function based kernel (2006)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "Predicting User Views in Online News (2017)",
+         "children": [{
+             "name": "Work hard, play hard: Email classification on the Avocado and Enron corpora (2017)",
+             "size": 3534
+       },{
+             "name": "Click bait: Forward-reference as lure in online news headlines (2015)",
+             "size": 3534
+       },{
+             "name": "Distributed representations of words and phrases and their compositionality (2013)",
+             "size": 3534
+       },{
+             "name": "Linguistic regularities in continuous space word representations (2013)",
+             "size": 3534
+       }]
+     },
+       {
+         "name": "From Single to Multi-document Summarization: A Prototype System and its Evaluation (2002)",
+         "children": [{
+             "name": "The Document Understanding Workshop (2007)",
+             "size": 3534
+       },{
+             "name": "Accurate Methods for the Statistics of Surprise and Coincidence (1993)",
+             "size": 3534
+       },{
+             "name": "New Methods in Automatic Abstracting (1969)",
+             "size": 3534
+       },{
+             "name": "Summarizing Text Documents: Sentence Selection and Evaluation Metrics (2003)",
+             "size": 3534
+       },{
+             "name": "The Automated Acquisition of Topic Signatures for Text Summarization (2000)",
+             "size": 3534
+       },{
+             "name": "Summary Evaluation Environment (2001)",
+             "size": 3534
+       },{
+             "name": "The Automatic Creation of Literature Abstracts (1958)",
+             "size": 3534
+       },{
+             "name": "Automatic Summarization (2011)",
+             "size": 3534
+       },{
+             "name": "Discourse trees are good indicators of importance in text (1999)",
+             "size": 3534
+       },{
+             "name": "An Inquiry into the Nature of Multidocument Abstracts, Extracts, and their Evaluation (1999)",
+             "size": 3534
+       },{
+             "name": "Columbia Multi- Document Summarization: Approach and Evaluation. DUC -01 Workshop on Text Summarization (2002)",
+             "size": 3534
+       }]
+       },
+         {
+           "name": "Visualization for Large Collections of Multimedia Information (2001)",
+           "children": [{
+               "name": "Multimedia Abstractions for a Digital Video Library (1997)",
+               "size": 3534
+         },{
+               "name": "Take version into Visual Media: New Applications of Image Understanding. IEEE Expert (1996)",
+               "size": 3534
+         },{
+               "name": "James A Virtual Environment for Multimedia Intelligence Data Analysis (1996)",
+               "size": 3534
+      }]
+    },
+      {
+        "name": "Aligning parallel texts with InterText (2014)",
+        "children": [{
+            "name": "Using Concordance Software in Language Teaching and Research (2014)",
+            "size": 3534
+      },{
+            "name": "The case of InterCorp, a multilingual parallel corpus (2013)",
+            "size": 3534
+      },{
+            "name": "The Translation Corpus Aligner: A program for automatic alignment of parallel texts (1992)",
+            "size": 3534
+      },{
+            "name": "A Program for Aligning English and Norwegian Sentences (1996)",
+            "size": 3534
+      },{
+            "name": "The parallel corpus InterCorp after seven years (2011)",
+            "size": 3534
+      },{
+            "name": "Building a multilingual parallel corpus for human users (2012)",
+            "size": 3534
+      },{
+            "name": "Parallel corpora for medium density languages (2005)",
+            "size": 3534
+      },{
+            "name": "a tool for processing translation corpora (2010)",
+            "size": 3534
+      }]
+    },
+      {
+        "name": "The Impact of Multiword Expression Compositionality on Machine Translation Evaluation (2015)",
+        "children": [{
+            "name": "Identification and treatment of multiword expressions applied to information retrieval (2011)",
+            "size": 3534
+      },{
+            "name": "Multiword expressions (2018)",
+            "size": 3534
+      },{
+            "name": "PanLex and LEXTRACT: Translating all words of all languages of the world (2010)",
+            "size": 3534
+      },{
+            "name": "METEOR: An automatic metric for MT evaluation with improved correlation with human judgments (2005)",
+            "size": 3534
+      },{
+            "name": "Acquiring Phrasal Lexicons from Corpora (2006)",
+            "size": 3534
+      },{
+            "name": "Findings of the 2013 Workshop on Statistical Machine Translation (2013)",
+            "size": 3534
+      },{
+            "name": "Task-based evaluation of multiword expressions: a pilot study in statistical machine translation (2010)",
+            "size": 3534
+      },{
+            "name": "A smorgasbord of features for automatic MT evaluation (2008)",
+            "size": 3534
+      },{
+            "name": "Testing for significance of increased correlation with human judgment (2014)",
+            "size": 3534
+      },{
+            "name": "Is machine translation getting better over time? (2014)",
+            "size": 3534
+      },{
+            "name": "PanLex: Building a resource for panlingual lexical translation (2014)",
+            "size": 3534
+      },{
+            "name": "How to pick out token instances of English verb-particle constructions (2010)",
+            "size": 3534
+      },{
+            "name": "Fast exact inference with a factored model for natural language parsing (2002)",
+            "size": 3534
+      },{
+            "name": "Feature-rich statistical translation of noun phrases (2003)",
+            "size": 3534
+      },{
+            "name": "Moses: Open source toolkit for statistical machine translation (2007)",
+            "size": 3534
+      },{
+            "name": "Tesla: Translation evaluation of sentences with linear programming-based analysis (2010)",
+            "size": 3534
+      },{
+            "name": "Robust machine translation evaluation with entailment features (2009)",
+            "size": 3534
+      },{
+            "name": "BLEU: a method for automatic evaluation of machine translation (2002)",
+            "size": 3534
+      },{
+            "name": "A generic framework for multiword expressions treatment: from acquisition to applications (2012)",
+            "size": 3534
+      },{
+            "name": "An empirical study on compositionality in compound nouns (2011)",
+            "size": 3534
+      },{
+            "name": "Exploiting Social Network Structure for Person-to-Person Sentiment Analysis (2014)",
+            "size": 3534
+      },{
+            "name": "Multiword expressions: A pain in the neck for NLP (2002)",
+            "size": 3534
+      },{
+            "name": "Predicting the compositionality of multiword expressions using translations in multiple languages (2013)",
+            "size": 3534
+      },{
+            "name": "Using distributional similarity of multi-way translations to predict multiword expression compositionality (2014)",
+            "size": 3534
+      },{
+            "name": "Ambiguity Resolution in Language Learning (1997)",
+            "size": 3534
+      },{
+            "name": "A study of translation edit rate with targeted human annotation (2006)",
+            "size": 3534
+      },{
+            "name": "Using information about multi-word expressions for the word-alignment task (2006)",
+            "size": 3534
+      },{
+            "name": "Distinguishing degrees of compositionality in compound splitting for statistical machine translation (2014)",
+            "size": 3534
+      }]
+    },
+      {
+        "name": "Learning Simple Wikipedia: A Cogitation in Ascertaining Abecedarian Language (2010)",
+        "children": [{
+            "name": "Brazilian portuguese automatic text simplification systems (2008)",
+            "size": 3534
+      },{
+            "name": "Paraphrasing with bilingual parallel corpora (2005)",
+            "size": 3534
+      },{
+            "name": "An unsupervised approach to biography production using Wikipedia (2008)",
+            "size": 3534
+      },{
+            "name": "NLTK: The natural language toolkit (2002)",
+            "size": 3534
+      },{
+            "name": "Reevaluating the role of BLEU in machine translation research (2006)",
+            "size": 3534
+      },{
+            "name": "Cohesive generation of syntactically simplified newspaper text. Lecture notes in computer science (2000)",
+            "size": 3534
+      },{
+            "name": "Simplifying text for languageimpaired readers (1999)",
+            "size": 3534
+      },{
+            "name": "Predicting the fluency of text with shallow structural features (2009)",
+            "size": 3534
+      },{
+            "name": "Coarse-to-fine n-best parsing and MaxEnt discriminative reranking (2005)",
+            "size": 3534
+      },{
+            "name": "Online passive aggressive algorithms (2006)",
+            "size": 3534
+      },{
+            "name": "Automatic sentence simplification for subtitling in Dutch and English (2004)",
+            "size": 3534
+      },{
+            "name": "Helping aphasic people process online information (2006)",
+            "size": 3534
+      },{
+            "name": "Cognitively motivated features for readability assessment (2009)",
+            "size": 3534
+      },{
+            "name": "A joint language model with fine-grain syntactic tags (2009)",
+            "size": 3534
+      },{
+            "name": "Automatic content-based categorization of Wikipedia articles (2009)",
+            "size": 3534
+      },{
+            "name": "Self-training pcfg grammars with latent annotations across languages (2009)",
+            "size": 3534
+      },{
+            "name": "Text categorization with support vector machines: Learning with many relevant features (1998)",
+            "size": 3534
+      },{
+            "name": "Unsupervised multilingual sentence boundary detection (2006)",
+            "size": 3534
+      },{
+            "name": "Using Wikipedia for automatic word sense disambiguation (2007)",
+            "size": 3534
+      },{
+            "name": "Using Wikipedia and Wiktionary in domain-specific information retrieval (2008)",
+            "size": 3534
+      },{
+            "name": "Basic English: A General Introduction with Rules and Grammar (1930)",
+            "size": 3534
+      },{
+            "name": "Text simplification for language learners: A corpus analysis (2007)",
+            "size": 3534
+      },{
+            "name": "Improved inference for unlexicalized parsing (2007)",
+            "size": 3534
+      },{
+            "name": "Learning accurate, compact, and interpretable tree annotation (2006)",
+            "size": 3534
+      },{
+            "name": "Exploiting semantic role labeling, WordNet and Wikipedia for coreference resolution (2006)",
+            "size": 3534
+      },{
+            "name": "YAWN: A semantically annotated Wikipedia XML corpus (2007)",
+            "size": 3534
+      },{
+            "name": "Syntactic simplification and text cohesion (2004)",
+            "size": 3534
+      },{
+            "name": "Extracting parallel sentences from comparable corpora using document level alignment (2010)",
+            "size": 3534
+      },{
+            "name": "BART: A modular toolkit for coreference resolution (2008)",
+            "size": 3534
+      },{
+            "name": "Simple Wikipedia English (2009)",
+            "size": 3534
+      },{
+            "name": "Coreference resolution using semantic relatedness information from automatically discovered patterns (2007)",
+            "size": 3534
+      },{
+            "name": "Sentence level machine translation evaluation as a ranking problem: one step aside from BLEU (2007)",
+            "size": 3534
+      }]
+    },
+      {
+        "name": "Exploiting Social Network Structure for Person-to-Person Sentiment Analysis (2014)",
+        "children": [{
+            "name": "Mining newsgroups using networks arising from social behavior (2011)",
+            "size": 3534
+      },{
+            "name": "Cats rule and dogs drool! Classifying stance in online debate (2003)",
+            "size": 3534
+      },{
+            "name": "Hinge-loss Markov random fields: Convex inference for structured prediction (2011)",
+            "size": 3534
+      },{
+            "name": "On the computational complexity of Ising spin glass models (1999)",
+            "size": 3534
+      },{
+            "name": "Biographies, bollywood, boom-boxes and blenders: Domain adaptation for sentiment classification (2007)",
+            "size": 3534
+      },{
+            "name": "Distributed optimization and statistical learning via the alternating direction method of multipliers (2011)",
+            "size": 3534
+      },{
+            "name": "Probabilistic similarity logic (2010)",
+            "size": 3534
+      },{
+            "name": "Structure balance: A generalization of Heider's (1956)",
+            "size": 3534
+      },{
+            "name": "Gossip in evolutionary perspective (2004)",
+            "size": 3534
+      },{
+            "name": "Independence and bipolarity in the structure of affect (1998)",
+            "size": 3534
+      },{
+            "name": "Attitudes and cognitive organization (1946)",
+            "size": 3534
+      },{
+            "name": "Exploiting social relations for sentiment analysis in microblogging (2013)",
+            "size": 3534
+      },{
+            "name": "A flexible framework for probabilistic models of social trust (2013)",
+            "size": 3534
+      },{
+            "name": "Behavioral-Cultural Modeling and Prediction Conference (2018)",
+            "size": 3534
+      },{
+            "name": "Narrative framing of consumer sentiment in online restaurant reviews (2014)",
+            "size": 3534
+      },{
+            "name": "Probabilistic Graphical Models: Principles and Techniques (2009)",
+            "size": 3534
+      },{
+            "name": "What is the added value of negative links in online social networks? (2013)",
+            "size": 3534
+      },{
+            "name": "Combining Knowledge-based Methods and Supervised Learning for Effective Italian Word Sense Disambiguation (2008)",
+            "size": 3534
+      },{
+            "name": "Predicting positive and negative links in online social networks (2010)",
+            "size": 3534
+      },{
+            "name": "Signed networks in social media (2010)",
+            "size": 3534
+      },{
+            "name": "Which side are you on? Identifying perspectives at the document and sentence levels (2006)",
+            "size": 3534
+      },{
+            "name": "Recommender systems with social regularization (2011)",
+            "size": 3534
+      },{
+            "name": "Taking sides: User classification for informal online political discourse (2008)",
+            "size": 3534
+      },{
+            "name": "A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts (2004)",
+            "size": 3534
+      },{
+            "name": "Opinion mining and sentiment analysis (2008)",
+            "size": 3534
+      },{
+            "name": "Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods Advances in Large Margin Classifiers (1999)",
+            "size": 3534
+      },{
+            "name": "Linguistic models for analyzing and detecting biased language (2013)",
+            "size": 3534
+      },{
+            "name": "A comparison of dimensional models of emotion (2009)",
+            "size": 3534
+      },{
+            "name": "A circumplex model of affect (1980)",
+            "size": 3534
+      },{
+            "name": "Recognizing stances in ideological on-line debates (2010)",
+            "size": 3534
+      },{
+            "name": "User-level sentiment analysis incorporating social networks (2011)",
+            "size": 3534
+      },{
+            "name": "Exploiting homophily effect for trust prediction (2013)",
+            "size": 3534
+      },{
+            "name": "Get out the vote: Determining support or opposition from Congressional floor-debate transcripts (2006)",
+            "size": 3534
+      },{
+            "name": "Supplementary Material Online (2011)",
+            "size": 3534
+      },{
+            "name": "Recognizing contextual polarity in phrase-level sentiment analysis (2005)",
+            "size": 3534
+      },{
+            "name": "Shedding (a thousand points of) light on biased language (2010)",
+            "size": 3534
+      },{
+            "name": "Classifying party affiliation from political speech (2008)",
+            "size": 3534
+      }]
+    },
+      {
+        "name": "Combining Knowledge-based Methods and Supervised Learning for Effective Italian Word Sense Disambiguation (2008)",
+        "children": [{
+            "name": "Evaluating WSD on Cross-Language Information Retrieval (2007)",
+            "size": 3534
+      },{
+            "name": "An adapted lesk algorithm for word sense disambiguation using wordnet (2002)",
+            "size": 3534
+      },{
+            "name": "JIGSAW algorithm for Word Sense Disambiguation (2007)",
+            "size": 3534
+      },{
+            "name": "The JIG- SAW Algorithm for Word Sense Disambiguation and Semantic Indexing of Documents (2007)",
+            "size": 3534
+      },{
+            "name": "Gambl, Genetic Algorithm optimization of Memory-based WSD (2004)",
+            "size": 3534
+      },{
+            "name": "Relieving the data acquisition bottleneck in word sense disambiguation (2004)",
+            "size": 3534
+      },{
+            "name": "WordNet: An Electronic Lexical Database (1998)",
+            "size": 3534
+      },{
+            "name": "Evaluating the results of a memory-based word-expert approach to unrestricted word sense disambiguation (2002)",
+            "size": 3534
+      },{
+            "name": "Combining local context and WordNet similarity for word sense identification (1998)",
+            "size": 3534
+      },{
+            "name": "Using corpus statistics and Word- Net relations for sense identification (1998)",
+            "size": 3534
+      },{
+            "name": "Binary codes capable of correcting deletions, insertions, and reversals (1966)",
+            "size": 3534
+      },{
+            "name": "Bootstrapping large sense tagged corpora (2002)",
+            "size": 3534
+      },{
+            "name": "Unsupervised large-vocabulary word sense disambiguation with graph-based algorithms for sequence data labeling (2005)",
+            "size": 3534
+      },{
+            "name": "Open Mind Word Expert: Creating Large Annotated Data Collections with Web Users' Help (2004)",
+            "size": 3534
+      },{
+            "name": "Machine Learning (1994)",
+            "size": 3534
+      },{
+            "name": "Introduction to the special issue on word sense disambiguation: The state of the art (1998)",
+            "size": 3534
+      },{
+            "name": "Structural semantic interconnections: A knowledgebased approach to word sense disambiguation (2005)",
+            "size": 3534
+      },{
+            "name": "ItalWordNet: building a large semantic database for the automatic treatment of Italian (2000)",
+            "size": 3534
+      },{
+            "name": "Combining learning and word sense disambiguation for intelligent user profiling (2007)",
+            "size": 3534
+      },{
+            "name": "Some experiments with a naive bayes WSD system (2004)",
+            "size": 3534
+      }]
+    },
+      {
+        "name": "Combining Intra-and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis (2013)",
+        "children": [{
+            "name": "Emotion regulation and substance use frequency in women with substance dependence and borderline personality disorder receiving dialectical behavior therapy (2011)",
+            "size": 3534
+      },{
+            "name": "Results of the WMT14 Metrics Shared Task (2014)",
+            "size": 3534
+      },{
+            "name": "Detecting multi-word expressions improves word sense disambiguation (2014)",
+            "size": 3534
+      },{
+            "name": "A Program for Aligning Sentences in Bilingual Corpora (1993)",
+            "size": 3534
+      },{
+            "name": "Identifying Justifications in Written Dialogs by Classifying Text as Argumentative (2011)",
+            "size": 3534
+      },{
+            "name": "Text-level Discourse Parsing with Rich Linguistic Features (2012)",
+            "size": 3534
+      },{
+            "name": "The Utility of Parsederived Features for Automatic Discourse Segmentation (2007)",
+            "size": 3534
+      },{
+            "name": "Improving Word Sense Disambiguation in Lexical Chaining (2003)",
+            "size": 3534
+      },{
+            "name": "HILDA: A Discourse Parser Using Support Vector Machine Classification (2010)",
+            "size": 3534
+      },{
+            "name": "A Novel Discriminative Framework for Sentence-Level Discourse Analysis (2012)",
+            "size": 3534
+      },{
+            "name": "Generating Discourse Structures for Written Texts (2004)",
+            "size": 3534
+      },{
+            "name": "Discourse Indicators for Content Selection in Summarization (2010)",
+            "size": 3534
+      },{
+            "name": "Rhetorical Structure Theory: Toward a Functional Theory of Text Organization (1988)",
+            "size": 3534
+      },{
+            "name": "An Unsupervised Approach to Recognizing Discourse Relations (2002)",
+            "size": 3534
+      },{
+            "name": "The Rhetorical Parsing of Unrestricted Texts: A Surface-based Approach (2000)",
+            "size": 3534
+      },{
+            "name": "The Theory and Practice of Discourse Parsing and Summarization (2000)",
+            "size": 3534
+      },{
+            "name": "Lexical Cohesion Computed by Thesaural Relations as an Indicator of Structure of Text (1991)",
+            "size": 3534
+      },{
+            "name": "The Penn Discourse Tree- Bank as a Resource for Natural Language Generation (2005)",
+            "size": 3534
+      },{
+            "name": "Discourse-Level Relations for Opinion Analysis (2010)",
+            "size": 3534
+      },{
+            "name": "Sentence Level Discourse Parsing Using Syntactic and Lexical (2003)",
+            "size": 3534
+      },{
+            "name": "Discourse Chunking and its Application to Sentence Compression (2005)",
+            "size": 3534
+      },{
+            "name": "Combining Hierarchical Clustering and Machine Learning to Predict High-Level Discourse Structure (2004)",
+            "size": 3534
+      },{
+            "name": "The Potsdam Commentary Corpus (2004)",
+            "size": 3534
+      },{
+            "name": "An Effective Discourse Parser that Uses Rich Linguistic Information (2009)",
+            "size": 3534
+      },{
+            "name": "An Introduction to Conditional Random Fields (2010)",
+            "size": 3534
+      },{
+            "name": "Evaluating Discourse-based Answer Extraction for Why-question Answering (2007)",
+            "size": 3534
+      },{
+            "name": "Complex Sentences as Leaky Units in Discourse Parsing (2011)",
+            "size": 3534
+      }]
+    }]
+  }

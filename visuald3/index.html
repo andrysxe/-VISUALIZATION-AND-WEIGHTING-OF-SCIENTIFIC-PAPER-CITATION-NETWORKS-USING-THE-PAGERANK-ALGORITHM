@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style type="text/css">
+
+  .node, .link {
+    cursor: pointer;
+  }
+
+  .overlay{
+      background-color:#EEE;
+  }
+
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+
+  .node text {
+    font-size:20px;
+    font-family:sans-serif;
+  }
+
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 4px;
+  }
+
+  .templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+  }
+
+  .ghostCircle.show{
+      display:block;
+  }
+
+  .ghostCircle, .activeDrag .ghostCircle{
+       display: none;
+  }
+
+</style>
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="dndTree.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-info mb-1">
+	  <a class="navbar-brand" href="#">VISUALISASI</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav">
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../homepage">Home</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visual3d">Visual 3D</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualcollapse">Visual Collapse</a>
+		  </li>
+		  <li class="nav-item active bg-secondary">
+			<a class="nav-link text-white" href="../visuald3">Visual D3</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualinden">Visual Inden</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualnetwork">Visual Network</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualorbit">Visual Orbit</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link text-white" href="../visualpagerank">Visual Page Rank</a>
+		  </li>
+		</ul>
+	  </div>
+	</nav>
+    <div id="tree-container"></div>
+</body>
+</html>
